@@ -4,4 +4,12 @@
 __pycache__/
 local_settings.py
 /static/
-settings.py
+requirements.txt
+venv/
+.pytest_cache
+**__pycache__/
+dbsqlite3
+.env
+.coverage
+.vscode
+
